@@ -3031,8 +3031,8 @@
 
 /* Banner */
 
-	#banner {
-		background-attachment: scroll,							fixed;
+	#_banner {
+		background-attachment: scroll, fixed;
 		background-color: #666;
 		background-image: url("images/3.jpg");
 		background-position: top left,						center center;
@@ -3041,6 +3041,17 @@
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
+	}
+
+	#banner {
+		background-image: url("images/1.jpg");
+		background-repeat:no-repeat;
+		background-size: 100%;
+		background-position:center;
+		color: #fff;
+		padding: 12em 0 20em 0;
+		text-align: center;
+		width: 100%;
 	}
 
 		#banner :last-child {
