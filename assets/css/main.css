@@ -20,6 +20,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-family: 'Montserrat Alternates', sans-serif;
+		color: white;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -3105,6 +3106,16 @@
 				color: #666 !important;
 			}
 
+			#banner input[type="submit"].special:hover,
+			#banner input[type="reset"].special:hover,
+			#banner input[type="button"].special:hover,
+			#banner .button.special:hover {
+				background: #EE2634;
+				color: white !important;
+				border: 0px !important;
+				box-shadow: none !important;	
+			}
+
 /* Main */
 
 	#main {
@@ -3185,7 +3196,7 @@
 
 	#cta {
 		background: #EE2634;
-		color: #f9e5df;
+		color: white;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
 	}
