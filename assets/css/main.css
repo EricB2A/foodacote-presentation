@@ -3704,7 +3704,7 @@
 					}
 
 					ul.actions li > * {
-						width: 100%;
+						width: 66%;
 						margin: 0 !important;
 					}
 
@@ -3721,6 +3721,11 @@
 					}
 
 		/* Box */
+
+		    p {
+		    	padding-left: 20px;
+		    	padding-right: 20px;
+		    }
 
 			.box {
 				border-radius: 0;
