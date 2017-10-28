@@ -3757,7 +3757,13 @@
 		/* Banner */
 
 			#banner {
-				padding: 5em 1em 4em 1em;
+		background-image: url("../../images/3b.jpg");
+		background-repeat:no-repeat;
+		background-size: 100%;
+		color: #fff;
+		padding: 12em 0 20em 0;
+		text-align: center;
+		width: 100%;
 			}
 
 		/* Main */
