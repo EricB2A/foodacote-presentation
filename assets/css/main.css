@@ -3034,7 +3034,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/1.jpg");
+		background-image: url("images/3.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3174,7 +3174,7 @@
 /* CTA */
 
 	#cta {
-		background: #e89980;
+		background: #EE2634;
 		color: #f9e5df;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
